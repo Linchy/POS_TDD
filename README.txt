@@ -1,10 +1,10 @@
-#Point of Sale System
+# Point of Sale System
 
 POS system designed using Test Driven Development.
 ---
-#Methodology
+# Methodology
 
-##Item Prices Lookup
+## Item Prices Lookup
 
 > Added test covering the price of A (£20)
 > Wrote simpliest code to make test work 'return 20'
